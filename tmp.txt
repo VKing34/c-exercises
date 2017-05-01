@@ -1,0 +1,14 @@
+if(c == '(')
+		{
+			push(&check,c);
+			x = row;
+			y = col;
+		    
+		}
+		if(c == '[')
+		{
+			push(&check,c);
+			x = row;
+			y = col;
+	    
+		}
